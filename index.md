@@ -82,7 +82,7 @@ exceptional circumstances. The late assignments will receive at most half credit
 ## <a name="aat">Alternate Assessments</a>
 
 1. [Assignment # 1](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/ESV65ZhH6i1Aoh6dGxoItG4BWzCjjqGjUTAGGxeKNmloog?e=BgMfbX) 
-2. [Assignment # 2] (https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/Ee5lEDOKO8pHqyWUaAkAFMUBDXiXzeCxZDM0V_fqJ-hEuA?e=NznPPC)
+2. [Assignment # 2](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/Ee5lEDOKO8pHqyWUaAkAFMUBDXiXzeCxZDM0V_fqJ-hEuA?e=NznPPC)
 
 ## <a name="practice">Practice</a>
 

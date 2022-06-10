@@ -54,11 +54,18 @@ A6209.4. Analyze SAG,string efficiency and grading of cables in power system tra
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Unit I [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EV-Rp-YupDJAoYImOJy0ChcBqJBjSORxH61LKxufB59B9Q?e=fRHC4a)
+2. Unit II [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EcKvKTCNtHxEtCp4K4fqN3kBQkhvqTvKMNOs7BgjvqZPZw?e=ED8h34)
+3. Unit III [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EeaC8_V-d5FFvs5k0TFZgm0BhMOOHy4bVnYS1tPgFKIxzQ?e=rjCyTm)
+4. Unit IV [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/Eeu44SNsHEVBjjbL8H1aZLIBIXqX143ausezcV2Rsgv7Tw?e=dLB4Gm)
+5. Unit V [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EUxFdMjvr6pBnAdagFmif8YBX_JK0HPfeahzcnWKkBKyTQ?e=xt32SJ)
+
+**Lecture Notes PPT**
+1. Unit I [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EVkbA2WFxxNKt4Q5uDpCVNwB4jPvSmvQDB6pYfR1QKSuCQ?e=Cg4B40)
+2. Unit II [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EfTjFL3P581DpEU076EgbE8BLK3pU3FK_5MJDIHGtfeuEw?e=Hf4RgN)
+3. Unit III [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EQxF9JSQwNFMnyWeUoGRggoBCCH2oCaxBkRLU3mLj75Z2A?e=KS00hz)
+4. Unit IV [Download](link)
+5. Unit V [Download](link)
 
 <hr>
 
@@ -74,27 +81,23 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 ## <a name="aat">Alternate Assessments</a>
 
-| #  | Name | Assigned | Due |
-|:--:|-----||:--------:|:---:|
-|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+1. [Assignment # 1](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/ESV65ZhH6i1Aoh6dGxoItG4BWzCjjqGjUTAGGxeKNmloog?e=BgMfbX) 
+2. [Assignment # 2] (https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/Ee5lEDOKO8pHqyWUaAkAFMUBDXiXzeCxZDM0V_fqJ-hEuA?e=NznPPC)
 
 ## <a name="practice">Practice</a>
 
-1. Measurement of low Resistances (Milli Volt Drop Test) [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Simulation of Mid-Point compensation using PSCAD [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. End point compensation under light load using PSCAD [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Line compensation under lagging PF Conditions using PSCAD [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Simulation of load compensation using PSCAD [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-6. Verification of Ferranti effect in a long transmission line [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-7. Determination of ABCD parameters for a long transmission line [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-8. Plotting of e-fields using electrolytic bath [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-9. Over head Transmission line modelling using PSCAD [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-10. Break down Characteristics of Sphere – Sphere Geometry [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-11. Break down Characteristics of Sphere – Point Geometry [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-12. Determination of Break down strength of oil for distance electrodes [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Measurement of low Resistances (Milli-Volt Drop Test).[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EZp8_PssE6VKhSeF04BzX4UBqtd_Q_fTKsPh_jPbW_d1pQ?e=w3vLAs)
+2. Simulation of Mid-Point compensation using PSCAD.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EdSny5DLlztBuCEmZVmI7asBG_TAsWyDYrsbZhtBqgz7jA?e=OSQSqr)
+3. End point compensation under light load using PSCAD.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/ETtLiB_o8JBIn-IncL96kFABAMEXWn4AxZD_fOYXRIKgAA?e=wOjDy7)
+4. Line compensation under lagging PF Conditions using PSCAD.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EQwEQTlOx8dPj4k02mu5ASAB85_Bc6RQ0zTl5jJYZdMSiQ?e=WqTfnt)
+5. Simulation of load compensation using PSCAD.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EVYAFcxG-BdLnDeG2acl8Z8BehrVg2tCnh16nWpZ0yYtgQ?e=q3pigm)
+6. Verification of Ferranti effect in a long transmission line.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EZP_FW-PgapIhENqqwH7Od0BYVWRxhg1YzbHKOHTJpLcSA?e=m8AIgP)
+7. Determination of ABCD parameters for a long transmission line.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EcO70j3Svu1AvSzJMKMoE1UBMKDGSvczpVNRiBvTgzsZNQ?e=IDQK8L)
+8. Plotting of e-fields using electrolytic bath.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EW50FXABZpNGh_fNJTptF1UBYwM4HcgI2aKNmcJWYh1zVA?e=5VU96y)
+9. Overhead Transmission line modelling using PSCAD.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EXjHoZjXjI1DpeVOGp1VfmIBy8xMGdsHhAO5c_dGE-wzwA?e=LPgZKq)
+10. Break down Characteristics of Sphere-Sphere Geometry.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EXIJO-6cICdFjrOiJQxgmY4BZ2jM35lJrxhaZONjF97D1w?e=GEgGbs)
+11. Break down Characteristics of Sphere-Point Geometry.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/ETiCAIvXKGtEt-iVs-iC4OUBMSeP7pm7OW3cjfX9Wi9Zsg?e=of1rzB)
+12. Determination of Break down strength of oil for distance electrodes.[Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/EV91fBA6v0xBoimChI9NBUUBjlxRo1b_wb_VVUw_jq6A3w?e=MoavTU)
 
 
 **Lab attendance is required**.
@@ -103,5 +106,5 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|1 | CAT - I | [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/murugaperumal_k_vardhaman_org/ET8puvwrA35JnUm4SwZhsdYBidz3_u0-8K8dJqspKINNTQ?e=ScNbcV) | [Download](Schema link here) |
+|2 | CAT - II | [Download](QP link here) | [Download](Schema Link here) |
